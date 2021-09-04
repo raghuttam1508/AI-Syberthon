@@ -1,0 +1,2 @@
+# AI-Syberthon
+VRC Hackathon
