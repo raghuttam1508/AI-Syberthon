@@ -13,4 +13,8 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
-
+dataset = pd.read_csv('C:/Users/yashb/Downloads/PS_20174392719_1491204439457_log.csv') 
+print(dataset.shape)
+print(dataset.head(20))
+print(dataset.describe())
+dataset.isnull().values.any()
