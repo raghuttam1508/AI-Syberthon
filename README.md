@@ -1,2 +1,2 @@
-# AI-Syberthon
-## *VRC Hackathon*
+# **AI-Syberthon**
+## VRC Hackathon
